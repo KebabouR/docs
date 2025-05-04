@@ -20,7 +20,9 @@
               "quickstart",
               "development"
             ]
-          },
+          }
+        ]
+      },
       {
         "tab": "API Reference",
         "groups": [
@@ -82,7 +84,7 @@
   "footer": {
     "socials": {
       "discord": "kebabou.r",
-      "github": "https://github.com/KebabouR",
+      "github": "https://github.com/KebabouR"
     }
   }
 }
