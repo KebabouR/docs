@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Vision",
   "colors": {
     "primary": "#D3C2CE",
     "light": "#E2AFDE",
@@ -48,7 +48,7 @@
       "anchors": [
         {
           "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
+          "href": "https://docs.croustii.xyz",
           "icon": "book-open-cover"
         },
         {
